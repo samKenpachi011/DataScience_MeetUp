@@ -35,6 +35,6 @@ Data Science and give scholars a path to completing the tracks they are currentl
 
  ## PROJECT SESSION TIPS
 
- This are pre-selected projects that will test your skills on data cleaning,manipulation and visualization through a hands on approach to real life situations. NOTE::There might be concept that havent come across yet :sob: .The number one solution is to browse documentation *[Pandas Docs at your service](https://pandas.pydata.org/pandas-docs/stable/)
+ This are pre-selected projects that will test your skills on data cleaning,manipulation and visualization through a hands on approach to real life situations. NOTE::There might be concepts that you havent come across yet :sob: .The number one solution is to browse documentation *[Pandas Docs at your service](https://pandas.pydata.org/pandas-docs/stable/)
 
  DataScience is all about asking questions :stuck_out_tongue_winking_eye: .
