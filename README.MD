@@ -37,4 +37,6 @@ Data Science and give scholars a path to completing the tracks they are currentl
 
  This are pre-selected projects that will test your skills on data cleaning,manipulation and visualization through a hands on approach to real life situations. NOTE::There might be concepts that you havent come across yet :sob: .The number one solution is to browse documentation *[Pandas Docs at your service](https://pandas.pydata.org/pandas-docs/stable/)
 
+- YOU DON'T HAVE PYTHON INSTALLED OR ANACONDA WITH JUPYTER NOTEBOOK-DO NOT WORRY *[Colab at your service](https://colab.research.google.com/)
+-  JUST COPY THE LINK TO THIS REPO TO COLAB
  DataScience is all about asking questions :stuck_out_tongue_winking_eye: .
