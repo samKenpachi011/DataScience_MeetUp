@@ -39,4 +39,5 @@ Data Science and give scholars a path to completing the tracks they are currentl
 
 - YOU DON'T HAVE PYTHON INSTALLED OR ANACONDA WITH JUPYTER NOTEBOOK-DO NOT WORRY *[Colab at your service](https://colab.research.google.com/)
 -  JUST COPY THE LINK TO THIS REPO TO COLAB
+
  DataScience is all about asking questions :stuck_out_tongue_winking_eye: .
